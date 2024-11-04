@@ -5,6 +5,9 @@
 This device helps industries maintain safe working environments by monitoring potential hazards.
 
 ---
+## Local Webserver - Output
+![Local Webserver - Output](./images/webserver.png)
+---
 
 ## Features
 
